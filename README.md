@@ -1,4 +1,4 @@
-# Elements
+# Elemental
 Open source periodic table iOS app.
 
 Initially, all elements will be searchable or selectable from the main page. Once selected, that element's details will be displayed.
